@@ -1,0 +1,29 @@
+x INTRODUCTION.
+
+Not only is there no mention of his Canon of the Loga-
+rithms in these treatises‚ but when, to illustrate the relation
+between the powers of numbers and their indices, there is
+exhibited the following table,—
+
+Ι. II. III. IIII. V. VI. VII.
+l. Q, ιι. 8. 16. 82. 64. 128,-
+
+no allusion occurs to the fact7 that this table also affords an
+illustration of the logarithmic principle. The upper series
+are not only inchoes to the lower series, considered as powers,
+but they are Logarithms to those numbers„ being an arith-
+metical adapted to a geometrica] progression. The word
+Logarithms was compounded by Napier before he published
+his discoveryq and this term itself embodies the principle
+illustrated (though on a very limited scale) by the above
+arrangement of figures. Αξιθμοι signifies numbers; λογαξιθμοι,
+the ratios of numbers„ or rather the number of ratios„ λογων
+αςιθμος. Now- although Napier expounded his system of
+Logarithms through his geometrical idea of fluxions (a de-
+monstration and a term afterwards adopted by Newton), and
+not through the doctrine of powers and exponentis, yet he
+could not have composed the term Logarithms without a
+perfect knowledge of the connexion of his system with the
+
+aritlmietis· of proportions.
+

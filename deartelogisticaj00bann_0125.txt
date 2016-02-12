@@ -1,0 +1,42 @@
+DE ARTE LOGISTICA. 7
+
+et unitate minores 3 tertio, partitis 10 per 5, producuntur Q uni-
+
+tate majores.
+
+Partitio rursus majoris per minorem, aut est perfecta aut imperfecta.
+Perfecta, ubi nullae sunt reliquiae. In his quotus est integrorum.
+Ut superiore exemplo partitis 10 per 5, producuntur Q, praecise
+
+absque reliquiis.
+
+Imperfecta‚ vero, quae reliquias impartitas relinquit.
+Ut si partienda offerantur 16 per 5, et inde produxeris 3,
+et unitatem indivisam remanere permiseris, imperfecta (licetur
+
+partitio.
+
+Ex his ergo constat tam ex partitione minoris per majorem, quam ex
+imperfecta partitione majoris por minorem, fractiones originem trahere ε
+De quibus suo loco.
+
+In partitione, quantitas quae partienda offertur partiendum dicitur;
+datarum altera, partiens aut partitor; quae provenit quotus dicitur3 et
+si quid indivisum remanserit, reliquiae.
+
+Ut praecedente exemplo, 16 dicuntur partiendum, 5 partiens,
+
+:3 quotus, et unitas superstans reliquiae.
+
+Partitionis species infinitae simt 3 ut bipartitio, quae est partitio quan-
+titatis oblatae in duo aequalia; tripartitio, quae in tria3 quadripartitio,
+quae in quatuor ; et ita deinceps.
+
+In his partienda dicuntur bipartiendum, tripartiendum, quadripar-
+tiendum, &c.; partientes sunt Ω, 3, 4, &c.; et quoti dicuntur partes
+dimidia, tertia, quarta, διο.
+
+Ex praemissis constat multiplicationem et perfectam partitionem relata
+
+osse, atque alteram alterius examen.
+

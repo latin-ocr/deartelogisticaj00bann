@@ -1,0 +1,28 @@
+LIBER SECUNDUS.
+
+DE POSITIVA SIVE COSSICA ALGEBRAE PARTE.
+
+CAPUT Ι.
+
+DE DEFINITIONIBUS ET DIVISIONIBUS PARTIUM,
+ET DE VOCABULIS ARTIS.
+
+1. Posmvffl Algebrae partem, per suppositiones fictas, veram quanti-
+tatem verumque numerum quaesitum patefacere diximus, Lib. Ι. cap. 1,
+sect. 7.
+
+Q. Positiones etiam, sive suppositiones, sunt notulae quaedam fictae
+unitate notatae, quas loco ac vico quantitatum ac numerorum ignotorum
+
+addimus, substrahimus, multiplicamus aut dividimus.
+
+3. Positiones autem, et positionum notulae, tot sunt diversae et dis-
+similes quot diversos, dissimiles, ignotosque numeros aut quantitates
+complectitur quaestio.
+
+Quarum, exempli gratia, figurae et nomina sunt IR, quae una
+prima positio dicitur, la, quae unum α, sivo una secunda positio
+dicitur3 lb, unum b, sive una tertia positi03 lc, unum c, sive
+
+una quarta positio 3 et sic per alphabetum.
+

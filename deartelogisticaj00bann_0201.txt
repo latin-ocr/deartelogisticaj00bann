@@ -1,0 +1,39 @@
+LIBER TERTIUS.
+
+DE LOGISTICA GEOMETRICA.
+
+CAPUT Ι.
+
+DE NOTATIONE ET NOMINATIONE CONCRETORUM.
+
+PRAECEDENTE Libro Arithmetieam docuimus, hic ordine Log'istica
+
+Geometrica sequitur.
+
+GEOMETRICA ergo dicitur Logistica quantitatum concpetarum per
+
+numeros concretos.
+Coneretus dieitur omnis numerus quatenus quantitatem concretam
+
+et continuam referat.
+
+ 
+
+ 
+
+ 
+
+Ut 311, si tres lineas digitales referat sic
+est numerus discretus: Quum autem tridigitalem lineam concrc-
+
+ 
+
+tam et continuam refert, hoc modo ‚ dicitur
+
+numerus concretus, sed hoc improprie et ratione subjecti.
+
+Proprie autem, et per se, concretos numeros dicimus radices nu-
+merorum quae nullo numero (sive integTo sive fracto) mensurari
+
+possunt.
+

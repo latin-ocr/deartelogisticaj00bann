@@ -1,0 +1,38 @@
+DE ARTE LOGISTICA. 13
+
+Habes itaque ex radicati, indicis, et radicis, duabus quibuscunque
+datis, tertiam per radicales multiplicationem, partitionem, et extrac-
+
+tionem.
+
+CAPUT V.
+
+DE COMPUTATIONIBUS COMPOSITIS.
+
+HucusQuE computationes simplices3 sequuntur compositae seu re-
+
+gulae.
+
+Composita est computatio quae ex pluribus quantitatibus datis, atque
+pluribus et diversimodis operationibus, quaesitam producit.
+
+Compositae computationes, seu regulae, vel sunt proportionalium, vel
+disproportionalium.
+
+Regulae proportionalium sunt, quae per solas computationes simplices
+proportionatas, scilicet multiplicationes et partitiones, quantitatem quae-
+sitam ex pluribus datis inveniunt.
+
+Ut si quaeratur, is qui tribus horis quatuor miliaria incedit,
+sex horis quot miliaria incedet? Item si sex boves nutriantur
+tribus mensuris foeni quatuor diebus, quaeraturque quot boves
+nutriri possunt quinque mensuris foeni duobus diebus? Item *20
+solidi Scotiae sunt una libra, Q librae sunt tres marcae, 5 marc-w
+valent unicum coronatum 3 quot ergo solidos valebunt 9 coronati?
+Quaestiones proportionalium sunt absque ulla additionum vel sub-
+stractionum introductione. Multiplicationes enim et partitiones
+sunt per consectaria suarum definitionum proportionales.
+
+In his spectantur situs et operatio.
+Situs quatuor praecepta sunt.
+

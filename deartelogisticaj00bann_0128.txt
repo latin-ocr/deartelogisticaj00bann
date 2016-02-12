@@ -1,0 +1,35 @@
+10 DE ARTE LOGISTICA.
+
+RADICALIS PARTITIO est radicati per radicem partitio in unitatem
+usque continuata, et numerus partitionum est index quaesitus.
+Ut radicatum 8 partitum per radicem Q, usque in unitatem,
+facit prima partitione 4, secunda partitione Q, et tertia 1. Unde
+ternarius, numerus scilicet partitionum, est index quaesitus.
+
+Hic indicum et radicum species sunt, ut supra in multiplicatione
+
+radicali.
+
+CAPUT IV.
+
+DE RADICALI EXTRACTIONE.
+
+RAD1c1s EXTRACTIO, dato indice, est inventio quantitatis quae datum
+radicatum radicali multiplicatione restituit 3 idemque radicali partitione
+dividit.
+
+Ut radicati 8 si quaeratur radix tripartiens, ea, per regulas suo
+loco tradendas, invenietur esse Q 3 binarius enim radicali tripli-
+catione restituit primo Q, secundo 4, tertio 8 radicatum: Idem-
+que radicatum contra radicali partitione primo in 4, deinde in Q,
+tertio in unum redigit.
+
+Radicis extractio aut est perfecta aut imperfecta.
+Perfecta, ubi nullae supersunt reliquiae.
+Ut in superiore exemplo.
+
+Imperfecta vero, ubi aliquae supersunt reliquiae irresolubiles.
+Ut si radix tripartiens fuerit extrahenda ex radicato 9, ea quam
+proxime erit binarius, qui radicaliter triplicatus restituit 8, et non
+9 ; relicta ergo unitate non extracta, imperfecta dicitur extractio.
+

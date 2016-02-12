@@ -1,0 +1,48 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DE ARTE LOGISTICA. 53
+TABULA RADICATORUM ET RADICUM.
+
+1 1 ³ ι ι 1 1 0 1 ι ι »³ 1 2 ,
+Dupl t n Ι Ι 9 16 Ι 25 Ι 36 Ι w Ι 61 Ι κ1 Ι
+'rripl t u Ικ Ι 27 61 Ι 127 Ι 216 Ι 313 Ι 512 Ι 729
+Qund plia-anm Ι 16 Ι 51 256 Ι 627, Ι 1296 Ι 2101 Ι >1096 Ι 0561
+Quintupiivamm Ι :3¹ Ι 213 1021 Ι 3125 Ι ’776 Ι 16507 Ι 027611 Ι 69019
+Sextuplieatum Ι 01 Ι 7217Ι 1096 ”Ι 15625 Ι ,16636 Ι 117619 Ι 162111 Ι 631111
+septempiicamm Ι 12 s Ι2 163111 Ι 711127 Ι 279036 Ι ,123513 Ι 20971 Ι 1712909
+Octuplicatum Ι filli] 65 61 65536 Ι 390625 Ι 1679616 Ι 5761101 Ι 16777216 Ι 13016721
+Noncuplimum Ι 512 Ι 196 3 622111 Ι 1953125 Ι 10077600 Ι 10353607 Ι 131217724 Ι 17120150
+Decuplicatum Ι 1021Ι 590111 1015676 Ι 0763625 Ι 60106170 Ι 2112175219 Ι 1073711521 Ι 3156701101
+undecuplicatum Ι 2015Ι 17 7117 1191301 Ι 15522123 Ι 3627217056 Ι 1977326713 Ι 5559931592 Ι 31361059609
+
+ 
+
+Construitur haec tabula, ex continuatis multiplicationibus, per singulas
+
+novem figuras, seriebus ab eisdem figuris descendentibus.
+Ut in fronte tabulae, habes figuras, octo multitudinis, 2, 3, 4,
+
+5, &e. usque ad 103 et sub qufique figura, suum duplicatum,
+triplicatum, quadruplicatum, διο. 111 tredecuplicatum usque: ut,
+sub 2 habes 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096,
+cum suis inscriptionibus ἐι margine sinistrorsum ; nimirum,
+duplicatum, triplicatum, quadruplicatum, διο. et duodecupli-
+catum ultimo 3 sub 3, autem, habes sua radicata 9, ΞΗ, 81, 243,
+διο. continuata ratione descendentia, sub 21⁴, item, habes 16, 64,
+256, διο. : sub quo habes 81, 729,
+6561, &c. ; ut in tabula& ips& perspici possunt.
+
+et ita ad novenarium usquc 3
+
+In extractione radicis constantis pluribus figuris, spectandi sunt situs,
+
+et operatio.
+

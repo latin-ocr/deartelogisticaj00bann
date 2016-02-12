@@ -1,0 +1,39 @@
+DE ARTE LOGISTICA. 47
+
+367500, 1050, et 1 ς quibus additis, fient 43243551, triplicatum
+
+quaesitum radicis oblatae 351.
+
+Sunt et quadruplicationiS, quintuplicationis, sextuplicationis‚ et alia-
+rum radicalium multiplicationum, particulares praxes ad inveniendum
+radicatum indicis cujusque. Sed quia tum modus per continuatam mul-
+tiplicationem prima sectione descriptus generalis est, et satis facilis, tum
+ex converso regularum exn-actionum haberi possunt omncs hae particu-
+lares praxeS, has ideo hoc loco praetermittimus.
+
+Partitionis etiam praxis ex ipsa ejusdem definitione patet. Si enim
+radicatum per radicem in unitatem usque partitus fueris, numerus par-
+titionum est radicalis quotus, seu index quaesitus
+
+Ut sint 55÷2Q5 radicatum dividendum per radicem ί235, emer-
+get primus quotus ‘23:3, quibus per ί235 divisis, emerget 1, secun-
+dus et ultimus quotus. Est ergo binarius hujus partitionis index,
+et radix est bipartiens radicati. Item si radicatum 12977875
+per radicem ‘235 partiendum sit, emergit, prima partitione, 55QQ5‚
+secund-51, c235, terti-22, 1. Unde partitio haec tripartitio est, et index
+est ternarius, et radix tripartiens dieitur.
+
+Numerus indicis, seu qualitas radicis, habetur, tam descendendo a
+radicato ad unitatem, per partitionem, quam ascendendo ab unitate ad
+radicatum, per multiplicationem: In utroque enim, numerus operatio-
+num est index, et radicis qualitas.
+
+Ut superiore exemplo, sicut radicatum 1297787 5, partitum per
+L235 radicem, tertia partitione exhibet unitatem ς ita, ab unitate
+continuata multiplicatio 235 radicis, tertia multiplicatione in
+idem radicatum incidet 3 unde utroque modo arguitur ternarius
+
+esse index.
+
+Hinc fit, quod partitionis radicalis rarus sit usus in computationibus,
+

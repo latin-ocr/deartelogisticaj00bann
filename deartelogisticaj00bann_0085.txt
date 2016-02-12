@@ -1,0 +1,28 @@
+INTRODUCTION. lxiii
+
+number„ but which he terms Radicatum⁷ is that which can be
+reduced to unit. when dividcd one or more times by some other
+number‚ the number of the partitions being· the index, and the
+dividing number the radix. or root. Euler„ the great alge-
+braic-al writer of the eighteenth century, had not a more pro-
+fouud knowledge of the properties of the relative numerical
+quantities, Root. Power„ and Exponent‚ than Napier in the
+sixteenth century had of what he called Radix7 Radicatum.
+and Index. Indeed. his opening of the subject of involution
+is less perplexing than Euler’s, whose statement might leave
+the student at a loss to know why the square of a number is
+called the second power, and not the first. For Euler3 after
+having said that a power of a number derives its rank„ or
+particular denomination, from the number of times it is multi-
+plied by itself, informs us, that a square is obtained by multi-
+plying a number once by itselfi and a cube, by multiplying a
+number twice by itself. Why, then, is a square called the
+second power‚ since the elevation is obtained by the first mul-
+tiplication of the number by itself? Napier avoids all such
+perplexity, when he commences by saying, that the first step in
+the process of involution is to ‘⁶ multiply unit by the radixq
+which multiplication returns the radix itself 3 secondly. multiply
+that again by the radix. and the duplicatum (the expressive
+
+term he uses for square or second power) is produc-esst aud so
+

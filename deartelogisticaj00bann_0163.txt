@@ -1,0 +1,40 @@
+DE ARTE LOGISTICA. 45
+
+Unde, radicem aliquoties ab unitate ducere, idem estquod tot aequales
+radici invicem ducere.
+
+Ut superiore exemplo, radix 2235 quatuor multiplicationibus
+
+simplicibus ab unitate ducitur, et fit quadruplicatum 30198006‘25 3
+
+et si 235, 235, ι235, et 235, invicem duxeris, idem emerget radi·
+
+catum, seu quadruplicatum 3 et ita de aliis.
+
+Radices quarum indices sunt compositi, facilius per componentes
+multiplicari et extrahi posse, quam per compositos indices, superius
+diximus.
+
+Ut superiore exemplo, facilius est radicaliter duplicare ι235,
+fientque 552253 atque haec rursus duplicare, seu in 552025
+ducere, fientque 3049800625, superius quadruplicatum: nam
+quadruplicare idem est quod duplicatum duplicare. Item sint
+10 radicaliter sextuplicanda3 ea fient continuat-[1 ab unitate multi-
+plicatione,—pri1no 103 secundo 100, duplicatum3 tertio tripli-
+catum, 1000; quarto quadruplicatum, 100003 quinto quintu-
+plicatum, 1000003 sexto, tandem, sextuplicatum, 1000000.
+Verum, per dictum compendium, si radicaliter triplicaveris dupli-
+catum 100, seu duplicaveris triplicatum 1000, proveniet inde
+sextuplicatum 100000ος quam antea aliquantum expeditius.
+Idem enim est sextuplicare radicaliter quod triplicare duplica-
+tum, aut duplicare triplicatum radicis. Bis enim tria, aut ter
+
+duo, idem sunt quod sex.
+
+Est et alia radicalis duplicationis praxis, quam per continuatam
+multiplicationem3 nimirum, radicem multiplicandam in duas partes
+secando, et duplum multipli, quod fit ex ductu prioris in posteriorem,
+una cum duarum partium duplicatis, addita faciunt duplicatum quae-
+
+situm.
+
